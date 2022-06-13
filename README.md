@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Julian Gianatiempo
 - 🌱 I’m currently learning PHP (Vanilla and Laravel), JS (Vanilla and NodeJS)
-- 🧑‍💻 I’m looking to work in TECH
+- 💻 I’m looking to work in TECH
 - 👤 This is my Linkedin: https://www.linkedin.com/in/jgianatiempo
