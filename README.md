@@ -14,4 +14,4 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ### Herramientas
-[![My Skills](https://skillicons.dev/icons?i=git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postman,ps)](https://skillicons.dev)
